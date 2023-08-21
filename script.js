@@ -30,7 +30,7 @@ function runTimer() {
       clearInterval(timerClear);
       document.querySelector(
         "#pbtm"
-      ).innerHTML = `<h1 class="gameOver">Game Over🤬</h1>`;
+      ).innerHTML = `<h1 class="gameOver">Game Over👾</h1>`;
     }
   }, 1000);
 }
